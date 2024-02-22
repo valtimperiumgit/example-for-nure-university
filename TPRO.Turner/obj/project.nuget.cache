@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "98v54mFCKNh1shu0H5Di/oNXZhQUtaavl/2dSa87rYRJyduV6R7QpyN8WLk+6zb8PIvnLNrm1gNzpy+6DjucKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\RiderProjects\\TPRO\\TPRO.Turner\\TPRO.Turner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
