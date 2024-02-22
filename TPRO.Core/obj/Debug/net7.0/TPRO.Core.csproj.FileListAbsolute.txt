@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\bin\Debug\net7.0\TPRO.Core.deps.json
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\bin\Debug\net7.0\TPRO.Core.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\bin\Debug\net7.0\TPRO.Core.pdb
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.csproj.CopyComplete
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\refint\TPRO.Core.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\TPRO.Core.pdb
+C:\Users\admin\RiderProjects\TPRO\TPRO.Core\obj\Debug\net7.0\ref\TPRO.Core.dll
