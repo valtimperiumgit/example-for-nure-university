@@ -6,3 +6,4 @@ public static class Queues
     public const string TurnerQueue = "turnerQueue";
     public const string LinerQueue = "linerQueue";
 }
+

@@ -14,3 +14,4 @@ public static class WebSocketsUtils
         await client.CloseAsync(WebSocketCloseStatus.NormalClosure, string.Empty, CancellationToken.None);
     }
 }
+
