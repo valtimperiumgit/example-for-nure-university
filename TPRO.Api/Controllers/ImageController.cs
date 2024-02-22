@@ -33,6 +33,6 @@ public class ImageController : ControllerBase
             channel.BasicPublish(exchange: string.Empty, routingKey: Queues.GrayColorQueue, basicProperties: null, body: imageBytes);
         }
                 
-        return Ok("Image uploaded and sent to processing queue.");
+        return Ok("Image uploaded and sent to processing queue!");
     }
 }
