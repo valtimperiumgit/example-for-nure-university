@@ -36,3 +36,6 @@ C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\TPRO.Core.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\TPRO.Core.pdb
+C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

@@ -22,3 +22,6 @@ C:\Users\admin\RiderProjects\TPRO\TPRO.Graycolor\bin\Debug\net7.0\runtimes\unix\
 C:\Users\admin\RiderProjects\TPRO\TPRO.Graycolor\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Graycolor\bin\Debug\net7.0\TPRO.Core.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Graycolor\bin\Debug\net7.0\TPRO.Core.pdb
+C:\Users\admin\RiderProjects\TPRO\TPRO.Graycolor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Graycolor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Graycolor\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll

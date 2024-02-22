@@ -1,34 +1,21 @@
 ﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
-using System.Drawing;
-using System.Drawing.Imaging;
-using System.Net.WebSockets;
 using TPRO.Core.Images;
 using TPRO.Core.RebbitMq;
 using TPRO.Core.WebSockets;
 
+var rabbitMqService = new RabbitMqService();
+var imageProcessingService = new ImageProcessingService();
 
-var factory = new ConnectionFactory { HostName = "localhost", Password = "guest", UserName = "guest"};
-using var connection = factory.CreateConnection();
-using var channel = connection.CreateModel();
+using var channel = rabbitMqService.CreateModel();
 channel.QueueDeclare(queue: Queues.TurnerQueue, durable: false, exclusive: false, autoDelete: false, arguments: null);
                 
 var consumer = new EventingBasicConsumer(channel);
 consumer.Received += (model, ea) =>
 {
-    var body = ea.Body.ToArray();
-    using var ms = new MemoryStream(body);
-
     try
     {
-        using Image img = Image.FromStream(ms);
-        using Bitmap originalBitmap = new Bitmap(img);
-        Bitmap bwImg = ImageChanger.RotateImage(originalBitmap);
-        
-        using var memoryStream = new MemoryStream();
-        bwImg.Save(memoryStream, ImageFormat.Png);
-        byte[] imageBytes = memoryStream.ToArray();
-        
+        var imageBytes = imageProcessingService.ProcessImage(ea.Body.ToArray(), ImageChanger.RotateImage);
         WebSocketsUtils.SendImageViaWebSocket(imageBytes);
     }
     catch (Exception e)

@@ -22,3 +22,6 @@ C:\Users\admin\RiderProjects\TPRO\TPRO.Liner\obj\Debug\net7.0\TPRO.Liner.genrunt
 C:\Users\admin\RiderProjects\TPRO\TPRO.Liner\obj\Debug\net7.0\ref\TPRO.Liner.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Liner\bin\Debug\net7.0\TPRO.Core.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Liner\bin\Debug\net7.0\TPRO.Core.pdb
+C:\Users\admin\RiderProjects\TPRO\TPRO.Liner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Liner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Liner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll

@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "gdht6o9Y9xdsedVZeePNZjLVRUyVGGehsT8IDgYkA1czF4FDytfC4GTiPiC5CGtu2RHqY9ai42vzFx5FZ0az4g==",
+  "dgSpecHash": "HfRwgEdTyHprv23cRlrk5Qdzakm+Kg9n6v+uen1DpVP+JYigTi6UaFe0NYLHYpAfnHOwzmWWR+vzoGlF0LrkEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\RiderProjects\\TPRO\\TPRO.Graycolor\\TPRO.Graycolor.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.1.24080.9\\microsoft.extensions.primitives.9.0.0-preview.1.24080.9.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []

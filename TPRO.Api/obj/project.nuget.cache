@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hxa0lsVD49MqtSVzA2/Rx555yy1QbEFFBXRifnsdyzwhkGKslGlcYdGrmdlN+ehFBnbwg52wm/K8GExmQdYdhw==",
+  "dgSpecHash": "7GEnWvrvnAc7Le4L6DqdhNIhngSLOUbSX8gbot9pnc95Xd7OkHT8k35D7tpLuVNpGhC8muZbmgd6yJjLEjo2BA==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\RiderProjects\\TPRO\\TPRO.Api\\TPRO.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.1.24080.9\\microsoft.extensions.primitives.9.0.0-preview.1.24080.9.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

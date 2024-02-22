@@ -22,3 +22,14 @@ C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\obj\Debug\net7.0\TPRO.Turner.genru
 C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\obj\Debug\net7.0\ref\TPRO.Turner.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\TPRO.Core.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\TPRO.Core.pdb
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\System.Text.Json.dll
