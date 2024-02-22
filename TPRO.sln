@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPRO.Turner", "TPRO.Turner\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPRO.Liner", "TPRO.Liner\TPRO.Liner.csproj", "{E23784E5-E04A-4194-97B4-669C15712D9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPRO.Core", "TPRO.Core\TPRO.Core.csproj", "{D158CA94-4FA1-4549-95CC-A241ACBDBD64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E23784E5-E04A-4194-97B4-669C15712D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E23784E5-E04A-4194-97B4-669C15712D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E23784E5-E04A-4194-97B4-669C15712D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D158CA94-4FA1-4549-95CC-A241ACBDBD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D158CA94-4FA1-4549-95CC-A241ACBDBD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D158CA94-4FA1-4549-95CC-A241ACBDBD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D158CA94-4FA1-4549-95CC-A241ACBDBD64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

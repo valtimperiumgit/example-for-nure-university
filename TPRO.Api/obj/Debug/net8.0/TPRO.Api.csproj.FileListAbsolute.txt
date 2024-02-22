@@ -32,3 +32,7 @@ C:\Users\admin\RiderProjects\TPRO\TPRO.Api\obj\Debug\net8.0\refint\TPRO.Api.dll
 C:\Users\admin\RiderProjects\TPRO\TPRO.Api\obj\Debug\net8.0\TPRO.Api.pdb
 C:\Users\admin\RiderProjects\TPRO\TPRO.Api\obj\Debug\net8.0\TPRO.Api.genruntimeconfig.cache
 C:\Users\admin\RiderProjects\TPRO\TPRO.Api\obj\Debug\net8.0\ref\TPRO.Api.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\TPRO.Core.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Api\bin\Debug\net8.0\TPRO.Core.pdb

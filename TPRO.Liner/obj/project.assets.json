@@ -91,6 +91,16 @@
             "related": ".xml"
           }
         }
+      },
+      "TPRO.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TPRO.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TPRO.Core.dll": {}
+        }
       }
     }
   },
@@ -228,12 +238,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "TPRO.Core/1.0.0": {
+      "type": "project",
+      "path": "../TPRO.Core/TPRO.Core.csproj",
+      "msbuildProject": "../TPRO.Core/TPRO.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "RabbitMQ.Client >= 6.2.1",
-      "System.Drawing.Common >= 6.0.0"
+      "System.Drawing.Common >= 6.0.0",
+      "TPRO.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -267,7 +283,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\admin\\RiderProjects\\TPRO\\TPRO.Core\\TPRO.Core.csproj": {
+              "projectPath": "C:\\Users\\admin\\RiderProjects\\TPRO\\TPRO.Core\\TPRO.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -20,3 +20,5 @@ C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\obj\Debug\net7.0\refint\TPRO.Turne
 C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\obj\Debug\net7.0\TPRO.Turner.pdb
 C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\obj\Debug\net7.0\TPRO.Turner.genruntimeconfig.cache
 C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\obj\Debug\net7.0\ref\TPRO.Turner.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\TPRO.Core.dll
+C:\Users\admin\RiderProjects\TPRO\TPRO.Turner\bin\Debug\net7.0\TPRO.Core.pdb
